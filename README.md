@@ -14,6 +14,7 @@ Or:
 ```
 python3 snake.py
 ```
+Or use the docker container (Dockerfile)
 
 ## Controls:
 1. Key arrows to control the snake
