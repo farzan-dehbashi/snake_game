@@ -1,6 +1,8 @@
 # Snake Game
 This is a Nokia Snake game. Where a snake chases an apple and grows after eating it.
-![alt text](https://github.com/farzan-dehbashi/snake_game/blob/master/preview.png)
+<p align="center">
+  <img src="https://github.com/farzan-dehbashi/snake_game/blob/master/preview.png" width="350" title="Snake game">
+</p>
 ## Setup
 You may use executable file located as follows:
 ```
