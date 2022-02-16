@@ -14,3 +14,8 @@ Or:
 ```
 python3 snake.py
 ```
+
+## Controls:
+1. Key arrows to control the snake
+2. Esc to quit game
+3. On the event of game over, game is paused.
